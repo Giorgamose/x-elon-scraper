@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2025 X Elon Scraper
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+LEGAL DISCLAIMER:
+
+This software is provided for educational and research purposes. Users are
+responsible for ensuring their use complies with:
+
+1. X/Twitter Terms of Service (https://twitter.com/tos)
+2. X/Twitter Developer Agreement (if using the API)
+3. Applicable data protection laws (GDPR, CCPA, etc.)
+4. Copyright and intellectual property laws
+
+The authors and contributors assume no liability for misuse of this software.
+By using this software, you agree to:
+
+- Only collect publicly available data
+- Respect rate limits and robots.txt directives
+- Not use data for unauthorized purposes
+- Provide proper attribution when displaying collected content
+- Not sell or redistribute collected data without permission
+
+Use of web scraping functionality should only occur when:
+- robots.txt explicitly permits scraping
+- You do not have access to the official API
+- You respect conservative rate limits
+- You are prepared to cease scraping if requested
